@@ -84,7 +84,7 @@ const CryptoFundCalculator = () => {
       {/* Header */}
       <header className="text-center mb-6">
         <h1 className="text-2xl font-bold text-blue-400">Calculator</h1>
-        <p className="text-gray-400">Calculate optimal liquidity provision</p>
+        <p className="text-gray-400">simple fast calculator</p>
       </header>
       
       {/* Instructions Section */}
