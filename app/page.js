@@ -1,4 +1,4 @@
-import CryptoFundCalculator from '../components/CryptoFundCalculator';
+import CryptoFundCalculator from '../components/CryptoFundCalculator.jsx';
 
 export default function Home() {
   return (
