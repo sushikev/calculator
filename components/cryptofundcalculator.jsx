@@ -83,7 +83,7 @@ const CryptoFundCalculator = () => {
     <div className="flex flex-col min-h-screen bg-gray-900 p-4 text-gray-200">
       {/* Header */}
       <header className="text-center mb-6">
-        <h1 className="text-2xl font-bold text-blue-400">Hyperion Calculator</h1>
+        <h1 className="text-2xl font-bold text-blue-400">Calculator</h1>
         <p className="text-gray-400">Calculate optimal liquidity provision</p>
       </header>
       
