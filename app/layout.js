@@ -1,7 +1,7 @@
 import './globals.css'
 
 export const metadata = {
-  title: 'Hyperion Calculator',
+  title: 'Calculator',
   description: 'Calculate',
 }
 
